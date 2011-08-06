@@ -1,4 +1,4 @@
-//                             fget.h                  
+//                             cget.h                  
 //
 // (C) Copyright 2011, Constantine Apostolou, All Rights Reserved.
 //
