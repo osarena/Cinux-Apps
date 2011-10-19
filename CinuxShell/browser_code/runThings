@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+# Run everything here
+#
+
+exec /usr/share/CinuxShell/CinuxShell
+echo "Thanks for using Cinux Blue"
+perl -w /usr/share/CinuxShell/browser_code/shutdown.pl

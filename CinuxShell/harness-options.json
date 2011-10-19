@@ -1,0 +1,27 @@
+{
+    "main": "main", 
+    "jetpackID": "88f5a836-5be0-43cd-98fa-22dcfe9c0a42", 
+    "bootstrap": {
+        "classID": "{88f5a836-5be0-43cd-98fa-22dcfe9c0a42}", 
+        "contractID": "@mozilla.org/harness-service;1?id=88f5a836-5be0-43cd-98fa-22dcfe9c0a42"
+    }, 
+    "loader": "resource://88f5a836-5be0-43cd-98fa-22dcfe9c0a42-internal/cuddlefish.js", 
+    "rootPaths": [
+        "resource://88f5a836-5be0-43cd-98fa-22dcfe9c0a42-lib/", 
+        "resource://88f5a836-5be0-43cd-98fa-22dcfe9c0a42-internal/"
+    ], 
+    "bundleID": "88f5a836-5be0-43cd-98fa-22dcfe9c0a42", 
+    "resources": {
+        "88f5a836-5be0-43cd-98fa-22dcfe9c0a42-lib": [
+            "packages", 
+            "88f5a836-5be0-43cd-98fa-22dcfe9c0a42-lib"
+        ], 
+        "88f5a836-5be0-43cd-98fa-22dcfe9c0a42-internal": [
+            "packages", 
+            "88f5a836-5be0-43cd-98fa-22dcfe9c0a42-internal"
+        ]
+    }, 
+    "staticArgs": {
+        "browser": "browser_code/index.html"
+    }
+}

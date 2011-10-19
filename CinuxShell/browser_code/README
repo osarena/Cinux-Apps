@@ -1,0 +1,20 @@
+== Cinux Shell 0.1 ==
+
+Cinux Shell is a graphical shell for the web, a full screen web browser for devices that don't need a desktop.
+
+The code is designed to be run using Mozilla Chromeless [2] and currently lives on the Cinux web site.
+
+To run, check out Chromeless from github [4] and execute... 
+
+  $ ./chromeless /path/to/shell/
+
+...from the Chromeless source directory.
+
+You can sign up to the Cinux mailing list [5] or contact the author directly (Constantine Apostolou) [6]
+
+1. https://docs.google.com/View?id=dd4z8wsd_393dd5v2mdg
+2. http://mozillalabs.com/chromeless/
+3. http://www.osarena.net/
+4. https://github.com/mozilla/chromeless
+5. http://webian.org/discussions
+6. http://tola.me.uk/contact

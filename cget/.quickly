@@ -1,0 +1,4 @@
+project = cget
+version = 11.04
+template = ubuntu-cli
+version_ubuntu-application = 11.04

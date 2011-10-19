@@ -1,0 +1,1 @@
+/home/apostolou/chromeless/modules/internal/plain-text-console.js

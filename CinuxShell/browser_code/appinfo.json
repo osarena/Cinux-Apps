@@ -1,0 +1,10 @@
+{
+    "build_id": "20110526195131", 
+    "vendor": "Webian", 
+    "name": "Cinux Shell", 
+    "resizable": false, 
+    "developer_email": "conmarap at gmail com", 
+    "module_dirs": [], 
+    "version": "0.1", 
+    "menubar": false
+}
